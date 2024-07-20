@@ -1,6 +1,6 @@
 # Servlet-Database-Integration Project
 
-![Servlet Database Integration](insert-image-url-here)
+![Servlet Database Integration]
 
 **Project Overview**: This project demonstrates a simple web application using Java servlets for database integration with MySQL, deployed on Apache Tomcat.
 
